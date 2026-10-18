@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /merci/
+
+Sitemap: https://robertinho-devfront.github.io/porto-connect-pro/sitemap.xml
